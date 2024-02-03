@@ -1,0 +1,20 @@
+{
+  "name": "time-sets",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/StepanRychikhin2/time-sets.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/StepanRychikhin2/time-sets/issues"
+  },
+  "homepage": "https://github.com/StepanRychikhin2/time-sets#readme"
+}
