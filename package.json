@@ -2,9 +2,10 @@
   "name": "time-sets",
   "version": "1.0.0",
   "description": "",
-  "main": "index1.js",
+  "homepage": "https://github.com/StepanRychikhin2/time-sets#readme",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "parcel build index1.html --public-url /time-sets"
   },
   "repository": {
     "type": "git",
@@ -16,5 +17,7 @@
   "bugs": {
     "url": "https://github.com/StepanRychikhin2/time-sets/issues"
   },
-  "homepage": "https://github.com/StepanRychikhin2/time-sets#readme"
+  "dependencies": {
+    "parcel": "^2.11.0"
+  }
 }

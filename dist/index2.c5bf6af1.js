@@ -1,0 +1,2 @@
+const t=document.querySelector(".box"),o=document.querySelector(".box2"),e=document.querySelector(".box3");setInterval(function(){t.style.backgroundColor=`rgb(${254*Math.random()+1},${254*Math.random()+1}, ${254*Math.random()+1})`},300),setInterval(function(){o.style.width=`${399*Math.random()+1}px`,o.style.height=`${399*Math.random()+1}px`},350),setInterval(function(){e.style.border=` solid rgb(${254*Math.random()+1},${254*Math.random()+1}, ${254*Math.random()+1}) 6px`},300);
+//# sourceMappingURL=index2.c5bf6af1.js.map
