@@ -8,6 +8,7 @@ setInterval(changeRun, converSec)
 
 function changeRun() {
    alert("Ось це повідомлення")
+    
 }
 
 
