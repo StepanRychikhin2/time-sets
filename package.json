@@ -2,7 +2,7 @@
   "name": "time-sets",
   "version": "1.0.0",
   "description": "",
-  "homepage": "https://github.com/StepanRychikhin2/time-sets#readme",
+  "homepage": "https://github.com/StepanRychikhin2/time-sets",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "parcel build index1.html --public-url /time-sets"
@@ -18,6 +18,7 @@
     "url": "https://github.com/StepanRychikhin2/time-sets/issues"
   },
   "dependencies": {
+    "gh-pages": "^6.1.1",
     "parcel": "^2.11.0"
   }
 }
